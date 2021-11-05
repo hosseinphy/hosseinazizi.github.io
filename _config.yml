@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "http://example.com"
+  Projects: "/_posts/"
   Resume:  "http://example.com"
   Author's home: "https://deanattali.com"
 
