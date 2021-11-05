@@ -6,10 +6,35 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Data Scientist Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Hossein Azizi
+ name             : "Elliott King"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : >- 
+    React, Python, NodeJS, Rails. Writing technical blogs is much easier than writing about
+    my personality, but I will do my best. I hope I don't run out of space for my bio. When I was
+    ten, I defeated Bill Ga
+  location         : "New York City"
+  email            : "elliottking93@gmail.com"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "elliottking93@gmail.com"
+    - label: "send_bitcoin"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/send_bitcoin"
+    - label: "elliott-king"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/elliott-king"
+    - label: "eking-30347"
+      icon: "fab fa-medium"
+      url: "https://eking-30347.medium.com/"
+    - label: "elliottwking"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/elliottwking/"
+
 
 # --- List of links in the navigation bar --- #
 
@@ -39,7 +64,7 @@ logo: /assets/img/logo_small.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "hosseinphy@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
@@ -48,7 +73,7 @@ social-network-links:
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: "https://www.linkedin.com/in/hossein-azizi"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
