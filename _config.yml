@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My webpage
+title: My Website
 
 # Your name to show in the footer
-author: Hossein Azizi
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
@@ -18,10 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Resume: "http://emaple.com"
-  Projects: "http://emaple.com"
   Author's home: "https://deanattali.com"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
