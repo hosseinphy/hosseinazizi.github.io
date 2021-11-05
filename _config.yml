@@ -9,18 +9,7 @@
 title: Data Scientist Portfolio
 
 # Your name to show in the footer
-# author: Hossein Azizi
-
-# Site Author
-author:
-  name             : "Elliott King"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : >- 
-    React, Python, NodeJS, Rails. Writing technical blogs is much easier than writing about
-    my personality, but I will do my best. I hope I don't run out of space for my bio. When I was
-    ten, I defeated Bill Ga
-  location         : "New York City"
-  email            : "elliottking93@gmail.com"
+author: Hossein Azizi
 
 # --- List of links in the navigation bar --- #
 
